@@ -7,6 +7,5 @@ git is new quick and simple
 ci 1
 ci 2
 ci 3
-ci 4
 ci 5
 ci 6
