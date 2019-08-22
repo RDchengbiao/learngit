@@ -3,3 +3,5 @@ git is version control sys
 git is GPL
 git is distributed
 git is new quick and simple
+
+ci 1
